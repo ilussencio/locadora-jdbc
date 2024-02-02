@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://100.112.213.156/locadora
+    username: dev
+    password: P@1308word
+    driverClassName: org.postgresql.Driver
